@@ -65,5 +65,6 @@ public class Main {
             System.out.println(a[e] + 1);
         }
     }
+    // Задание выполнено
     }
 }
